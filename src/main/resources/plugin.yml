@@ -1,0 +1,13 @@
+name: SimpleSlotReservation
+version: '${project.version}'
+main: net.claimworld.simpleslotreservation.Simpleslotreservation
+api-version: 1.19
+prefix: SimpleSlotReservation
+authors: [ Chikaraa ]
+description: Simple plugin for slot reservation.
+website: claimworld.net
+commands:
+  reload-simpleslotreservation:
+    description: Reloads data from config file.
+    usage: /<command>
+    permission: claimworld.simpleslotreservation.reload

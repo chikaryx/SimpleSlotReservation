@@ -1,0 +1,11 @@
+settings:
+  #how many slots should be reserved?
+  # settings this value above server slots disables checking
+  reserved-slots: 3
+
+  #message for people kicked due to slot reservation
+  message: "Last slots are reserved for VIPs"
+
+#
+# check https://claimworld.net/ for newest versions of our simple plugins, support & much more
+#
